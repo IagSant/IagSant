@@ -19,7 +19,7 @@
 
 <!-- Presentation -->
 <p align="center">
- Hi 👋, I'm Iago! A passionate Software Engineer student from Brazil.
+  - Hi 👋, I'm Iago! A passionate Software Engineer student from Brazil.
 
   - 🌱 🌱 I’m currently studying Software Engineer
 
@@ -27,8 +27,8 @@
 </p>
 
 <!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
+<details align="center">
+  <summary align="center">👨‍💻 More about me</summary>
 
   - 💬 I'm 26 years old and currently live in Brazil. I'm studying English and have experience with HTML, CSS, JavaScript, Java, and I'm learning C.
 
