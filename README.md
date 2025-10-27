@@ -44,9 +44,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagsant&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Portfolio -->
-<p align="center">
 ##Portfolio:
-</p>
 <!-- GIF -->
 <p align="center">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
