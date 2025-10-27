@@ -18,7 +18,7 @@
 </div>
 
 <!-- Presentation -->
-<p align="center">
+<p align="left">
   - Hi 👋, I'm Iago! A passionate Software Engineer student from Brazil.
 
   -🌱 I’m currently studying Software Engineer
