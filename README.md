@@ -19,11 +19,11 @@
 
 <!-- Presentation -->
 <p align="left">
-  - Hi 👋, I'm Iago! A passionate Software Engineer student from Brazil.
+  <p- Hi 👋, I'm Iago! A passionate Software Engineer student from Brazil.</p>
 
-  -🌱 I’m currently studying Software Engineer
+  <p-🌱 I’m currently studying Software Engineer</p>
 
-  -🔭 I'm looking for my first job opportunity. My dream is to one day work in Back-end.
+  <p-🔭 I'm looking for my first job opportunity. My dream is to one day work in Back-end.</p>
 </p>
 
 <!-- Dropdown -->
@@ -44,6 +44,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagsant&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Portfolio -->
+
 ## Portfolio:
 <!-- GIF -->
 <p align="center">
