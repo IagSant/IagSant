@@ -21,9 +21,9 @@
 <p align="center">
   - Hi 👋, I'm Iago! A passionate Software Engineer student from Brazil.
 
-  - 🌱 I’m currently studying Software Engineer
+  -🌱 I’m currently studying Software Engineer
 
-  - 🔭 I'm looking for my first job opportunity. My dream is to one day work in Back-end.
+  -🔭 I'm looking for my first job opportunity. My dream is to one day work in Back-end.
 </p>
 
 <!-- Dropdown -->
