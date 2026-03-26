@@ -1,30 +1,34 @@
 <div align="center">
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+My+Profile" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Developer+%7C+Java+%26+Spring+Boot" alt="Typing SVG" />
   </a>
 
-  <br><br>
+<br><br>
 
   <!-- Snake animation -->
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iagsant/iagsant/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iagsant/iagsant/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iagsant/iagsant/output/github-contribution-grid-snake.svg">
   </picture>
 
-  <br><br>
+<br><br>
 
   <!-- Título -->
+
   <h1>👋 Hi, I'm Iago Santos</h1>
 
   <!-- Presentation -->
+
   <p>💻 Software Engineering Student | Backend Developer (Java & Spring Boot)</p>
-  <p>🔭 I'm looking for my first job opportunity. My dream is to one day work in Back-end.</p>
+  <p>🚀 Building real-world applications using Java, Spring Boot and MySQL</p>
 
   <br>
 
   <!-- Dropdown -->
+
   <details>
     <summary>🚀 About Me</summary>
     <br>
@@ -35,26 +39,64 @@
   <br>
 
   <!-- Links -->
+
   <a href="https://www.linkedin.com/in/iago-santos-4542881b5">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-  <br><br>
+<br><br>
 
   <!-- Github Stats -->
+
   <img src="https://github-readme-stats.vercel.app/api?username=iagsant&show_icons=true&theme=transparent" alt="GitHub stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagsant&show_icons=true&theme=transparent" alt="Top Languages" />
 
-  <br><br>
+<br><br>
 
-  <!-- Portfolio -->
-  <h2>Portfolio:</h2>
-  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Portfolio image">
+  <!-- 🚀 Featured Projects -->
 
-  <br><br>
+  <h2>🚀 Featured Projects</h2>
+
+  <p><b>🍣 SushiGO – Restaurant Ordering System</b></p>
+  <p>
+    ✔ Fullstack web application<br>
+    ✔ REST API with CRUD operations<br>
+    ✔ MySQL database integration<br>
+    ✔ Designed for real-time order management
+  </p>
+
+  <br>
+
+  <p><b>🧠 Psychology Scheduling System</b></p>
+  <p>
+    ✔ Appointment and patient management system<br>
+    ✔ Interactive calendar<br>
+    ✔ REST API architecture<br>
+    ✔ Data persistence with MySQL
+  </p>
+
+<br><br>
+
+  <!-- 🛠️ Tech Stack -->
+
+  <h2>🛠️ Tech Stack</h2>
+
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
+  </div>
+
+<br><br>
 
   <!-- Skills -->
+
   <h2>🔥 Skills</h2>
 
   <div>
@@ -74,4 +116,22 @@
     <img alt="Intellij" height="30" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   </div>
 </div>
+<div align="center">
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Developer+%7C+Java+%26+Spring+Boot" alt="Typing SVG" />
+  </a>
 
+<br><br>
+
+  <!-- Snake animation -->
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iagsant/iagsant/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iagsant/iagsant/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iagsant/iagsant/output/github-contribution-grid-snake.svg">
+  </picture>
+
+<br><br>
+
+  
