@@ -16,21 +16,20 @@
   <br><br>
 
   <!-- Título -->
-  <h1>Hello World</h1>
+  <h1>👋 Hi, I'm Iago Santos</h1>
 
   <!-- Presentation -->
-  <p>👋 Hi, I'm Iago! A passionate Software Engineering student from Brazil.</p>
-  <p>🌱 I’m currently studying Software Engineering.</p>
+  <p>💻 Software Engineering Student | Backend Developer (Java & Spring Boot)</p>
   <p>🔭 I'm looking for my first job opportunity. My dream is to one day work in Back-end.</p>
 
   <br>
 
   <!-- Dropdown -->
   <details>
-    <summary>👨‍💻 More about me</summary>
+    <summary>🚀 About Me</summary>
     <br>
-    <p>💬 I'm 26 years old and currently live in Brazil. I'm studying English and have experience with HTML, CSS, JavaScript, Java, and I'm learning C.</p>
-    <p>⚡ I enjoy learning new things, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving.</p>
+    <p>I am a Software Engineering student with hands-on experience building real-world web applications using Java, Spring Boot, and MySQL.</p>
+    <p>⚡ I focus on backend development, creating REST APIs, managing databases, and structuring scalable systems.</p>
   </details>
 
   <br>
