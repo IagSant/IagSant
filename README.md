@@ -47,11 +47,10 @@
 <br><br>
 
   <!-- Github Stats -->
-
-  <img src="https://github-readme-stats.vercel.app/api?username=iagsant&show_icons=true&theme=transparent" alt="GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagsant&show_icons=true&theme=transparent" alt="Top Languages" />
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IagSant&show_icons=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagSant&layout=compact&theme=transparent"/>
+</p>
 <br><br>
 
   <!-- 🚀 Featured Projects -->
@@ -63,7 +62,7 @@
     ✔ Fullstack web application<br>
     ✔ REST API with CRUD operations<br>
     ✔ MySQL database integration<br>
-    ✔ Designed for real-time order management
+    ✔ Designed for scalable order management
   </p>
 
   <br>
@@ -112,25 +111,10 @@
   <div>
     <h3>Tools & Frameworks</h3>
     <img alt="VScode" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img alt="Intellij" height="30" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" />
   </div>
 </div>
-<div align="center">
-  <!-- Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Developer+%7C+Java+%26+Spring+Boot" alt="Typing SVG" />
-  </a>
 
-<br><br>
 
-  <!-- Snake animation -->
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iagsant/iagsant/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iagsant/iagsant/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iagsant/iagsant/output/github-contribution-grid-snake.svg">
-  </picture>
-
-<br><br>
 
   
